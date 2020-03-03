@@ -31,7 +31,7 @@ The one point of confusion that I had came from the lack of intensity. I was und
   
  ![](https://github.com/neil-uwb/Plate-Tectonics-Project/blob/master/plates.png)[3]
  
-The image above is also helpful in deciphering the second part of the analysis of this data. Looking at the picture, it appears that there are volcanoes that exist under the water. When these erupt, the expectation is that there is high seismic activity. Looking at the graph below, there is one points off the coast of Oregon that spiked in magnitude. This is where I am guessing that there was a volcanic eruption. This guess was confirmed by a paper that was written on the “Explosive processes during the 2015 eruption of Axial Seamount, as recorded by seafloor hydrophones”. That name should sound familiar as it was one of the OOI locations that we were interested in, which was located off the coast of Oregon.
+The image above is also helpful in deciphering the second part of the analysis of this data. Looking at the picture, it appears that there are volcanoes that exist under the water. When these erupt, the expectation is that there is high seismic activity. Looking at the graph below, there is one points off the coast of Oregon that spiked in magnitude. This is where I am guessing that there was a volcanic eruption. This guess was confirmed by a paper that was written on the “Explosive processes during the 2015 eruption of Axial Seamount, as recorded by seafloor hydrophones” [2]. That name should sound familiar as it was one of the OOI locations that we were interested in, which was located off the coast of Oregon.
  
 ![](https://github.com/neil-uwb/Plate-Tectonics-Project/blob/master/fig3.png)
 
