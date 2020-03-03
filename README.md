@@ -1,9 +1,14 @@
 # Plate-Tectonics-Project
 Project for B ME 450
 
+https://github.com/neil-uwb/Plate-Tectonics-Project/blob/master/Plate%20Tectonics%20Project.ipynb
+
 Neil Skilton
+
 Dr. Abadi
+
 B ME 450
+
 3/2/2020
 
 # Intro:
