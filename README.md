@@ -51,6 +51,8 @@ Given the data above and the analysis provided, I have concluded that seismic ac
  
 # References:
 [1]     OpenStreetMap. (2020). Export | OpenStreetMap. [online] Available at: https://www.openstreetmap.org/export#map=5/51.500/-0.100 [Accessed 2 Mar. 2020].
+
 [2]   	Dzurisin (2013). Subduction of the Juan de Fuca Plate beneath the North American Pla.... [online] Usgs.gov. Available at: https://www.usgs.gov/media/images/subduction-juan-de-fuca-plate-beneath-north-american-pla [Accessed 2 Mar. 2020].
+
 [3]	    Caplan-Auerbach, J., Dziak, R., Haxel, J., Bohnenstiehl, D. and Garcia, C. (2017). Explosive processes during the 2015 eruption of Axial Seamount, as recorded by seafloor hydrophones. Geochemistry, Geophysics, Geosystems, 18(4), pp.1761-1774.
 
