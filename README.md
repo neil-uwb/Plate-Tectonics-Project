@@ -19,7 +19,7 @@ The focus of this project from a programming perspective is on learning how to p
 
 The first step of this project was figuring out how to ingest the data. Since there was only a need for 2 data sets, I downloaded the data directly off the USGS Earthquake Catalog: one set for 2010 to 2020 and one set for just April 2015. Once the data was ingested, I went to a website where I could make an image of a map specific to the bounding box I specified in my data pulls. This image was then displayed behind both of my plots. The only unique part of my data is that instead of running with changing sizes of circles for denoting the magnitude of the earthquake, I went with a heat map for the magnitude that is paired with a legend on each graph. Given how rare it would be to get very high magnitude data, and low magnitude data was too common, I ingested everything between 2.5 and 10, but the legend for the heatmap only goes between 2.5 and 6. Bellow is a graph showing all the data I used for this project and the image made for all of the plots.
  
-![](https://github.com/neil-uwb/Plate-Tectonics-Project/blob/master/Map.PNG)
+![](https://github.com/neil-uwb/Plate-Tectonics-Project/blob/master/Map.PNG) [1]
 
 ![](https://github.com/neil-uwb/Plate-Tectonics-Project/blob/master/fig2.png)
 
